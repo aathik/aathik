@@ -1,5 +1,5 @@
-# My Personal Website
+# Aathik Thayyil Radhakrishnan
 
-The website is built using React JS. 
+An enthusiastic Computer Science Engineer and a passionate Web Developer in the making. Always eager to learn new things and looking forward for opportunities to showcase my skills to the world!
 
-## https://aathik.github.io/aathik-website/
+## Personal Website: https://aathik.github.io/aathik-website/
